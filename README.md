@@ -76,3 +76,9 @@ TypeScript 虽然有[官方手册][Handbook]及其[非官方中文版][中文手
 [Handbook]: http://www.typescriptlang.org/docs/handbook/basic-types.html
 [中文手册]: https://zhongsp.gitbooks.io/typescript-handbook/content/
 [ECMAScript 6 入门]: http://es6.ruanyifeng.com/
+
+
+
+#### gitbook部署参考
+  #### [gitbook安装与使用之windows下搭建gitbook平台](https://blog.csdn.net/zerorm/article/details/79229053)
+  #### [Gitbook安装与使用教程](https://blog.csdn.net/feosun/article/details/72806825)

@@ -1,0 +1,9 @@
+{
+  "name": "Gitbook",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "gitbook serve",
+    "build": "gitbook build"
+  }
+}
