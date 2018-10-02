@@ -1,0 +1,15 @@
+{
+  "title": "TypeScript 入门教程",
+  "description": "循序渐进学习 TypeScript。",
+  "author": "libin1991",
+  "language": "libin1991",
+  "plugins": ["disqus", "github"],
+  "pluginsConfig": {
+    "disqus": {
+      "shortName": "typescript-入门教程"
+    },
+    "github": {
+      "url": "https://github.com/libin1991/my-TypeScript"
+    }
+  }
+}
